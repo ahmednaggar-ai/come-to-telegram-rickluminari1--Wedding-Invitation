@@ -13,12 +13,12 @@ A responsive digital wedding invitation for **Mohamed & Rahma**, built with HTML
 
 ## Event Details
 
-| | |
-|---|---|
-| **Couple** | Mohamed & Rahma |
-| **Date** | Thursday, August 20, 2026 |
-| **Time** | 07:00 PM |
-| **Venue** | Green Plaza, Kafra Abrash |
+|            |                           |
+| ---------- | ------------------------- |
+| **Couple** | Mohamed & Rahma           |
+| **Date**   | Thursday, August 20, 2026 |
+| **Time**   | 08:00 PM                  |
+| **Venue**  | Green Plaza, Kafr Abrash  |
 
 ## Project Structure
 
@@ -75,13 +75,13 @@ Edit the content inside `index.html`:
 
 Edit the `setTimeout` values in `src/js/script.js`:
 
-| Action | Default |
-|--------|---------|
-| Show invite text | 200 ms |
+| Action                 | Default |
+| ---------------------- | ------- |
+| Show invite text       | 200 ms  |
 | Open doors + fireworks | 5000 ms |
-| Show invitation | 5800 ms |
-| Hide loader | 6000 ms |
-| Remove loader | 7000 ms |
+| Show invitation        | 5800 ms |
+| Hide loader            | 6000 ms |
+| Remove loader          | 7000 ms |
 
 ### Change colors & fonts
 
